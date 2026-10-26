@@ -1,0 +1,11 @@
+node_modules/
+.env
+cache/
+artifacts/
+typechain-types/
+coverage/
+coverage.json
+deployments/
+hardhat.local.config.js
+*.log
+.DS_Store
